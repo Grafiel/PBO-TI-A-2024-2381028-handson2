@@ -2,7 +2,11 @@ package binaryoperator;
 
 public class Assignment {
     public static void main(String[] args) {
-        int a = 20;
+        int angka = 10;
+        String nama = "Alice";
+
+        System.out.println("Nilai angka : " + angka);
+        System.out.println("Nilai nama : " + nama);
 
         int x = 5;
         x += 3;

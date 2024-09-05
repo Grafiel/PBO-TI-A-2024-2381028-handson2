@@ -1,13 +1,10 @@
 package branching;
 
-import jdk.jshell.Snippet;
-
-import javax.xml.transform.Source;
 import  java.util.Scanner;
 
 public class IfStatement {
     public static void main(String[] args) {
-        Scanner input = new Scanner(Source:System.in);
+        Scanner input = new Scanner(System.in);
 
         System.out.println("Masukan nomor hari (1 - 7): ");
         int nomorHari = input.nextInt();
@@ -30,7 +27,7 @@ public class IfStatement {
             namaHari = "Sabtu";
         } else {
             System.out.println("Masukkan nomor antara 1 - 7");
-            System.exit();
+            System.exit(0);
         }
 
         System.out.println("Hari : " + namaHari);

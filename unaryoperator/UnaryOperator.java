@@ -6,8 +6,8 @@ public class UnaryOperator {
         boolean benar = true;
 
         //Minus and plus operator
-        System.out.println(-x);
-        System.out.println(+x);
+        //System.out.println(-x);
+        //System.out.println(+x);
 
         //Pre - Increment
         //System.out.println("PRE - INCREMENT : TAMBAH DULU LALU CETAK");
