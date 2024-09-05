@@ -25,3 +25,4 @@ public class Assignment {
         System.out.println("Nilai b setelah %= 5" + b   );
     }
 }
+

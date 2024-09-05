@@ -7,3 +7,4 @@ public class TernaryOperator {
         System.out.println("Hasil ujian: " + hasil);
     }
 }
+

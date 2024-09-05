@@ -12,3 +12,4 @@ public class Logika {
         System.out.println("a OR b = " + hasilOr);
     }
 }
+

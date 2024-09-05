@@ -13,3 +13,4 @@ public class Aritmatika {
         System.out.println(operand1 % operand2);
     }
 }
+
